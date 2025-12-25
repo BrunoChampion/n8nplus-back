@@ -1,0 +1,10 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "files.exclude": {
+    "**/.n8n-nodes-cache": false
+  },
+  "search.exclude": {
+    ".n8n-nodes-cache": true
+  },
+  "typescript.preferences.includePackageJsonAutoImports": "off"
+}
